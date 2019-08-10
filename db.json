@@ -9,8 +9,8 @@
      "skillset": "plumber",
     "address": {
       "street": "Bulacao Cebu City",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
+     
+      "city": "Cebu City",
       "zipcode": "90210",
       "geo": {
         "lat": "-37.3159",
@@ -33,9 +33,9 @@
       "gender": "female",
       "skillset": "nanny",
       "address": {
-        "street": "Kulas Lightqww",
-        "suite": "Apt. 55612",
-        "city": "Gwenboroughs",
+        "street": "Lahug Apas",
+       
+        "city": "Cebu City",
         "zipcode": "92998-38742",
         "geo": {
           "lat": "-37.31591",
