@@ -1,3 +1,31 @@
 {
-  "name": "joe"
+  "users": [
+    {
+      "id": 1,
+      "Job title": "Post 1"
+    },
+    {
+      "id": 2,
+      "Job title": "Post 2"
+    },
+    {
+      "id": 3,
+      "Job title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "Description": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "description": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
