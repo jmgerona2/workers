@@ -1,32 +1,27 @@
 {
-  "workers": [
+  "posts": [
     {
-      "Email Address": qwerty@gmail.com,
-      "Job title": "Panday"
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "Email Address": asdfg@gmail.com,
-      "Job title": "Plumber"
+      "id": 2,
+      "title": "Post 2"
     },
     {
-      "Email Address": zxcvb@gmail.com,
-      "Job title": "Nanny - Baby sitter"
+      "id": 3,
+      "title": "Post 3"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "Description": "some comment",
+      "body": "some comment",
       "postId": 1
     },
     {
       "id": 2,
-      "description": "qwe",
-      "postId": 1
-    },
-    {
-      "id": 3,
-      "description": "some comment",
+      "body": "some comment",
       "postId": 1
     }
   ],
