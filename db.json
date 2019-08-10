@@ -52,7 +52,27 @@
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "name": "Graham",
+      "lastname": "Billy",
+      "email": "Sincere1qw@april.biz",
+      "gender": "female",
+      "skillset": "panday",
+      "address": {
+        "street": "Kulas Lightshow",
+        "suite": "Apt. 55622",
+        "city": "Gwensboroughs",
+        "zipcode": "92998-33742",
+        "geo": {
+          "lat": "-37.31591",
+          "lng": "81.14962"
+        }
+      },
+      "phone": "2-770-736-8031 x56432",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
     }
   ],
   "comments": [
