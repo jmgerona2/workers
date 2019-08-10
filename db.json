@@ -36,7 +36,7 @@
         "street": "Lahug Apas",
        
         "city": "Cebu City",
-        "zipcode": "6000",
+        "zipcode": "6000-1233",
         "geo": {
           "lat": "-37.31591",
           "lng": "81.14962"
@@ -61,7 +61,7 @@
         "street": "Cabantan",
         "suite": "Apt. 55622",
         "city": "Mandaue City",
-        "zipcode": "6014",
+        "zipcode": "6014-1233",
         "geo": {
           "lat": "-37.31591",
           "lng": "81.14962"
