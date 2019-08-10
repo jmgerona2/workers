@@ -27,22 +27,22 @@
     },
     {
       "id": 2,
-      "name": "Leanne Graham",
-      "lastname": "Bret",
-      "email": "Sincere@april.biz",
+      "name": "Graham",
+      "lastname": "Bill",
+      "email": "Sincere1qw@april.biz",
       "gender": "female",
-      "skillset": "plumber",
+      "skillset": "nanny",
       "address": {
-        "street": "Kulas Light",
-        "suite": "Apt. 556",
-        "city": "Gwenborough",
-        "zipcode": "92998-3874",
+        "street": "Kulas Lightqww",
+        "suite": "Apt. 55612",
+        "city": "Gwenboroughs",
+        "zipcode": "92998-38742",
         "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
+          "lat": "-37.31591",
+          "lng": "81.14962"
         }
       },
-      "phone": "1-770-736-8031 x56442",
+      "phone": "1-770-736-8031 x56432",
       "website": "hildegard.org",
       "company": {
         "name": "Romaguera-Crona",
