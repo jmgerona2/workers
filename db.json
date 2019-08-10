@@ -1,13 +1,10 @@
 {
   "posts": [
     {
-      "id": 1,
+     "id": 1,
     "name": "Leanne Graham",
-    "lastname": "Bret",
+    "username": "Bret",
     "email": "Sincere@april.biz",
-      
-      "gender": "female",
-      "skill set": "plumber",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
