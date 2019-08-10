@@ -1,16 +1,16 @@
 {
-  "users": [
+  "workers": [
     {
       "id": 1,
-      "Job title": "Post 1"
+      "Job title": "Panday"
     },
     {
       "id": 2,
-      "Job title": "Post 2"
+      "Job title": "Plumber"
     },
     {
       "id": 3,
-      "Job title": "Post 3"
+      "Job title": "Nanny - Baby sitter"
     }
   ],
   "comments": [
